@@ -20,7 +20,7 @@ I build developer tools and cloud services. At IBM, I designed and operated infr
 - **API performance testing.** Built a multithreaded Python tool with configurable concurrency, request rates, and payload sizes. Its reports verified critical API operations during maintenance.
 - **Developer tooling.** Built Python tools used by **5+ engineers** to switch Kubernetes clusters across cloud accounts. Automated log collection, cutting a **30+ minute workflow to 2–3 minutes**.
 
-## Featured project · Kaan Gallery
+## Featured project · Art Gallery
 
 A live gallery for my ceramics and printmaking. I built a Django REST API and an admin workflow for publishing artwork, and designed the deployment around free-tier limits on Vercel, Render, Neon PostgreSQL, and Cloudflare R2.
 
